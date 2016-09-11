@@ -1,0 +1,30 @@
+Bathroom-Suite
+
+Optimised for Cycles (Cycles Shaders/Materials)
+
+By. Jay Hardy 2012
+
+
+
+Hi, here's a few details to help you work with this model.
+
+The Bathroom suite is set to real world scale, i.e. if measurements in blender are set to metric, everything should match real world scale. This makes it easier to integrate my models with others that match real world scale.
+
+Shallow Depth-Of-Field – Where the background and foreground is out of focus...
+Please note that currently (2.61) camera dof does not work well when objects that are shrunk to real world scale. 
+
+Instead I would suggest if you want shallow depth-of-field with this model, scale up the suite (5+ metres) and other elements (not the camera) until the camera is it's usual default size compared to the model.
+
+No textures have been used, although if doing close ups, I would stick on some labels for the taps/faucets.
+
+
+Please note: I take no responsibility for leaks ;)
+
+Hope you guys like it, if so please comment or rate it, maybe both?
+
+For the license, just please credit me and say I created the original.
+
+If you need to contact me for any reason, please use the following email:
+meowsayscat@gmail.com
+
+Laterz, Jay.
