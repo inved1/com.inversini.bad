@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: a36fa2536cb747b4781cafde7925fefa
+timeCreated: 1473868096
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Circle_003
+    100002: //RootNode
+    100004: Hafa_East_600_cabinet
+    100006: hafa_East_600_mirror
+    100008: Hafa_East_600_wash
+    100010: Hafa_East_Toilet
+    100012: Mora_MMIX_mixer
+    100014: Plane
+    100016: Toilet_paper_001
+    100018: wc_hanger
+    100020: wc_toiletpaper
+    400000: Circle_003
+    400002: //RootNode
+    400004: Hafa_East_600_cabinet
+    400006: hafa_East_600_mirror
+    400008: Hafa_East_600_wash
+    400010: Hafa_East_Toilet
+    400012: Mora_MMIX_mixer
+    400014: Plane
+    400016: Toilet_paper_001
+    400018: wc_hanger
+    400020: wc_toiletpaper
+    2300000: Circle_003
+    2300002: Hafa_East_600_cabinet
+    2300004: hafa_East_600_mirror
+    2300006: Hafa_East_600_wash
+    2300008: Hafa_East_Toilet
+    2300010: Mora_MMIX_mixer
+    2300012: Plane
+    2300014: Toilet_paper_001
+    2300016: wc_hanger
+    2300018: wc_toiletpaper
+    3300000: Circle_003
+    3300002: Hafa_East_600_cabinet
+    3300004: hafa_East_600_mirror
+    3300006: Hafa_East_600_wash
+    3300008: Hafa_East_Toilet
+    3300010: Mora_MMIX_mixer
+    3300012: Plane
+    3300014: Toilet_paper_001
+    3300016: wc_hanger
+    3300018: wc_toiletpaper
+    4300000: wc_toiletpaper
+    4300002: Toilet_paper_001
+    4300004: hafa_East_600_mirror
+    4300006: Plane
+    4300008: Hafa_East_600_cabinet
+    4300010: Hafa_East_600_wash
+    4300012: Circle_003
+    4300014: Mora_MMIX_mixer
+    4300016: wc_hanger
+    4300018: Hafa_East_Toilet
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
